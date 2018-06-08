@@ -3,6 +3,7 @@ public class cwiczenie004 {
         System.out.println( firstLetterofStting ("Imię i nazwisko"));
         System.out.println( firstLetterofStting ("Adam"));
         System.out.println( firstLetterofStting ("Ewa"));
+        System.out.println( firstLetterofStting ("rower"));
     }
 
 
